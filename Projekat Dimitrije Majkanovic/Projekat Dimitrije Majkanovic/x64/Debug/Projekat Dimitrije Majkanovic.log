@@ -1,0 +1,12 @@
+﻿  Alati.cpp
+  Blekdzek.cpp
+  Igra.cpp
+  Igrac.cpp
+  Kazino.cpp
+  Program.cpp
+C:\Users\MITA\Desktop\Projekat Dimitrije Majkanovic\Projekat Dimitrije Majkanovic\Program.cpp(17,18): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\MITA\Desktop\Projekat Dimitrije Majkanovic\Projekat Dimitrije Majkanovic\Program.cpp(18,18): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+  PseudoRulet.cpp
+  Skor.cpp
+  Generating Code...
+  Projekat Dimitrije Majkanovic.vcxproj -> C:\Users\MITA\Desktop\Projekat Dimitrije Majkanovic\x64\Debug\Projekat Dimitrije Majkanovic.exe

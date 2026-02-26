@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|solutionrelative:Projekat Dimitrije Majkanovic\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Igra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|solutionrelative:Projekat Dimitrije Majkanovic\\Igra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Skor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|solutionrelative:Projekat Dimitrije Majkanovic\\Skor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\PseudoRulet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|solutionrelative:Projekat Dimitrije Majkanovic\\PseudoRulet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Kazino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|solutionrelative:Projekat Dimitrije Majkanovic\\Kazino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Igrac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|solutionrelative:Projekat Dimitrije Majkanovic\\Igrac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Blekdzek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52B1A548-C3C2-4373-9FE7-CE2B6E05A768}|Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic.vcxproj|solutionrelative:Projekat Dimitrije Majkanovic\\Blekdzek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skor.cpp",
+              "DocumentMoniker": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Skor.cpp",
+              "RelativeDocumentMoniker": "Projekat Dimitrije Majkanovic\\Skor.cpp",
+              "ToolTip": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Skor.cpp",
+              "RelativeToolTip": "Projekat Dimitrije Majkanovic\\Skor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T18:14:10.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PseudoRulet.cpp",
+              "DocumentMoniker": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\PseudoRulet.cpp",
+              "RelativeDocumentMoniker": "Projekat Dimitrije Majkanovic\\PseudoRulet.cpp",
+              "ToolTip": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\PseudoRulet.cpp",
+              "RelativeToolTip": "Projekat Dimitrije Majkanovic\\PseudoRulet.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T18:13:57.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Program.cpp",
+              "RelativeDocumentMoniker": "Projekat Dimitrije Majkanovic\\Program.cpp",
+              "ToolTip": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Program.cpp",
+              "RelativeToolTip": "Projekat Dimitrije Majkanovic\\Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T18:13:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kazino.cpp",
+              "DocumentMoniker": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Kazino.cpp",
+              "RelativeDocumentMoniker": "Projekat Dimitrije Majkanovic\\Kazino.cpp",
+              "ToolTip": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Kazino.cpp",
+              "RelativeToolTip": "Projekat Dimitrije Majkanovic\\Kazino.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T18:13:12.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Igrac.cpp",
+              "DocumentMoniker": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Igrac.cpp",
+              "RelativeDocumentMoniker": "Projekat Dimitrije Majkanovic\\Igrac.cpp",
+              "ToolTip": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Igrac.cpp",
+              "RelativeToolTip": "Projekat Dimitrije Majkanovic\\Igrac.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T18:12:54.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Igra.cpp",
+              "DocumentMoniker": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Igra.cpp",
+              "RelativeDocumentMoniker": "Projekat Dimitrije Majkanovic\\Igra.cpp",
+              "ToolTip": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Igra.cpp",
+              "RelativeToolTip": "Projekat Dimitrije Majkanovic\\Igra.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T18:12:31.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blekdzek.cpp",
+              "DocumentMoniker": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Blekdzek.cpp",
+              "RelativeDocumentMoniker": "Projekat Dimitrije Majkanovic\\Blekdzek.cpp",
+              "ToolTip": "C:\\Users\\MITA\\Desktop\\dimitrije_majkanovic_projekat\\Projekat Dimitrije Majkanovic\\Projekat Dimitrije Majkanovic\\Blekdzek.cpp",
+              "RelativeToolTip": "Projekat Dimitrije Majkanovic\\Blekdzek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T15:05:08.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
